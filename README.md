@@ -1,5 +1,7 @@
 # Brain-Tumor-Auto-Segmentation-for-MRI
 
+<img src="https://miro.medium.com/max/1740/1*yC1Bt3IOzNv8Pp7t1v7F1Q.png">
+
 Building a neural network to automatically segment tumor regions in brain, using MRI (Magnetic Resonance Imaging) scans.
 
 The MRI scan is one of the most common image modalities that we encounter in the radiology field.
